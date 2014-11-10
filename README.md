@@ -1,20 +1,19 @@
 
 
-# trying-di
+# trying DI and IoC in Javascript
 
 
 
 ## Usage
+Nothing more than a hello world Node.js application with some javascript dependency injection.
+node server.js
 
+* navigate http://localhost:3000/hello?name=YourName for a civilized greeting
+* navigate http://localhost:3000/arrr?name=YourName for a pirate greeting
 
 
 ## Developing
+I'm figuring out the correct way to do DI and IoC in javascript
 
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+## Uses
+intravenous
